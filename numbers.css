@@ -1,0 +1,44 @@
+body {
+font: 62.5% "Trebuchet MS", sans-serif;
+		margin: 50px;
+}
+
+#wrapper {
+	border:2px solid grey;
+	padding: 3%;
+}
+
+#problem {
+	border: 1px solid grey;
+	padding: 3%;
+	margin: 0% 2% 1% 30%;
+	background-color: white;
+}
+
+#check, #answer_input  {
+	display:none;
+}
+
+#validation {
+	color:grey;
+	font-style: italic;
+}
+
+input {
+	display: inline-block;
+}
+
+
+.menu {
+	position: relative;
+	top: 22px;
+	margin: 1%;
+	width: 24%;
+	float:left;
+
+}
+
+#tabs {
+	min-height: 300px;
+}
+
